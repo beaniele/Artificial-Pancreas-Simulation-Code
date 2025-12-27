@@ -1,6 +1,7 @@
 Low key thought of this for this year's science fair project, but decided to go with the other one on the profile instead. Nonetheless, type one diabetes is still a case that has been discussed, yet lacks basic integral technological advancements. Patients suffer the pain of punctures to receive the insulin needed to regulate their blood glucose levels. With this code, a simulation for an artificial pancreas can be thought of, and potentially used.
 
 ### If anyone would like to replicate this, and actually execute the project, be my guest. I took inspiration from science buddies for their potential solution for a model that will help with this ordeal, yet the code is strictly original and one that I have thought of. Feel free to tweak it however you what at any given point.
+### There is no regular base CAD model because I simply did not have the time to considering my other, larger and more significant projects.
 ### This HAS been tested and is proven to work.
 
 Conductivity Sensor
